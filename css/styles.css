@@ -1,0 +1,61 @@
+/*
+color palette
+1st #6C0616, crimson
+2nd #E51C7F, bright pink
+3rd #310E1D, dark
+
+
+*/
+
+body {
+	background: #C4AB89;
+	
+	font-family: 'Cherry Swash', cursive;
+}
+
+h1, h3 {
+	color: #393;
+	text-transformation: uppercase;
+	border-bottom: 5px solid black;
+	}
+	
+	h3 {
+		padding: 0 0 10px 0;
+	}
+	
+	
+	img {
+		box-shaddow: 0px 0px 20px #666;}
+		
+		.dropcap {
+			font-size: 72px;
+			color: #310E1D;
+			float: left;
+			5px}
+	
+	.container_12 {
+		background: rgba(255,255,255,25);
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Help Classes */
+.showgrid {
+	background: url("../img/12_col.gif") !important;
+}

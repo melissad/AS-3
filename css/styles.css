@@ -8,7 +8,8 @@ color palette
 */
 
 body {
-	background: #C4AB89;
+	background: #BAA454;
+	color: #896340;
 	
 	font-family: 'Cherry Swash', cursive;
 }
@@ -38,7 +39,8 @@ h1, h3 {
 	}
 	
 
-
+.corp {
+	width: 800px;
 
 
 
